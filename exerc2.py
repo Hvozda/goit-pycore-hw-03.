@@ -15,3 +15,7 @@ def get_numbers_ticket(min, max, quantity):
     lottery_numbers = get_numbers_ticket(1, 49, 6)
     print(lottery_numbers)
     
+
+    <body>
+    <h1> Homework 3-4 </h1>
+<body>
