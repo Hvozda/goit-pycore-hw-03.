@@ -15,3 +15,6 @@ def get_days_from_today(date_str: str) -> int:
     
     print(get_days_from_today("2025-06-20"))
 
+<body>
+    <h1> Homework 3-4 </h1>
+<body>
